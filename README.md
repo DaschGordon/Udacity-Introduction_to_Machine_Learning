@@ -1,8 +1,6 @@
-# CodingCampus
-Exercises, E-Learnings, Tutorials &amp; More
+# Udacity Course: Intro to Machine Learning
 
-## Contents
+The online course is located here: <https://learn.udacity.com/courses/ud120>
 
-**Udacity: Introduction to Machine Learning**
-- The Jupyter Notebook `Udacity-ML_Intro.ipynb` was used along the course to support solving the quizzes and several exercises
-- The Udacity repository `ud120-projects` was included as a submodule and contains coding exercises, mini-projects and the final project.
+The repository contains a Jupyter Notebook `Udacity-ML_Intro.ipynb` which was used as a playground along the course to solve the quizzes and several exercises.
+The Udacity repository `ud120-projects` was included as a submodule and contains coding exercises, mini-projects and the final project. 
